@@ -164,7 +164,6 @@ print(mylist)
 # default sorting order for string is string is alphabetical order
 # we should know that list should contain homogenious
 #data otherwise we will get type error
-#python2 first short number then string follow
 
 # both the list having same address
 mylist=[44,22,77,0,9,88]
