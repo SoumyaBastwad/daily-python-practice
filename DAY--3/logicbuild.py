@@ -54,7 +54,7 @@ for i in range(1,5): #start from 1 to 4
 for i in range(1,11,2): 
     print(i)
 
-#display tables from 2 to 18 side by side
+#display tables from 2 to 18 and arranged in side by side
 for i in range(1,11): 
     print(i*2," ",i*3," ",i*4," ",i*5," ",i*6," ",i*7," ",i*8," ",i*9," ")
 print("--------------------------------------------------------------------------")
