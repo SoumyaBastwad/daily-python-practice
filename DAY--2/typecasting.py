@@ -1,5 +1,6 @@
 #type casting:
-#The conversion of value from one data type to another data type is called typecasting There are various predefined functions available for typecasting.
+#The conversion of value from one data type to another data type is called typecasting.
+#There are various predefined functions available for typecasting.
 
 
 #int() used to convert an integer  
