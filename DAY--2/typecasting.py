@@ -14,7 +14,7 @@ print(int("4"))      #4
 
 #float() used to convert in float
 print(float(3))         #3.o
-#print(float(50+2j))
+#print(float(50+2j))     #the complex number is not possible
 print(float(True))    #1.0
 print(float(False))    #0.0
 print(float(4.22))     #4.22
@@ -34,7 +34,8 @@ print(bool(True))    #True
 print(bool(""))      #False
 
 
-#WAP to check if three variables have the same value so all the three variable addresses are the same. ( Using id() function we can check the address) 
+#WAP to check if three variables have the same value so all the three variable addresses are the same.
+#( Using id() function we can check the address) 
 math=50
 che=50
 phy=60
