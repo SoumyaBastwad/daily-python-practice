@@ -1,4 +1,3 @@
-
 # count() it is used to count the objects in list
 n=[1,2,3,5,5,5,1,2,4,4,6,6,6]
 print(n.count(1))
@@ -18,7 +17,7 @@ print(val.index(5))
 print(val.index(6))
 
 
-#when we needed pre defined function we import the module in python
+# when we needed pre defined function we import the module in python
 # for example we import datetime method for know current date time in our system
 import datetime
 date=datetime.datetime.now()
@@ -81,14 +80,14 @@ for i in name:
         print(newname)
 
 
-#reverse sting using for loop
+# reverse sting using for loop
 name="soumya"
 for i in range(-1,-7):
     newname+=i
     print(newname)
 
 
-#Find index of a specific character 
+# Find index of a specific character 
 name="soumyabastwad"
 i=0
 for x in name:
@@ -111,19 +110,19 @@ print("no of vowels:",vow)
 print("no of consonents:",con)
 
 
-#print numbers in reverse order from 5 to 0
+# print numbers in reverse order from 5 to 0
 for i in  range(5,0,-1):
     print(i)
 
 
-#program to calculate factorial
+# program to calculate factorial
 fact=1
 for i in  range(1,6):
      fact=i*fact
 print("factorial of 5:",fact)
 
 
-#sample A=[1,2,3] B=[2,3,4] C=[3,4,5] output=3 / to check common element in all given list
+# sample A=[1,2,3] B=[2,3,4] C=[3,4,5] output=3 / to check common element in all given list
 A=[1,2,3]
 B=[2,3,4]
 C=[3,4,5]
