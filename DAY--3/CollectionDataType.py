@@ -176,7 +176,8 @@ print(id(newlist))
 #Tuple== tuple is exactly as similar as list data type only the difference is that list is mutable but tuple is immutable
 #tuple is represented in () it is optional
 #Duplicate data are also allowed
-#tuple by nature is growable means if you add the value consciously tuple variable size will grow and similarly when you remove the objects from list it’s size automatically decreases.
+#tuple by nature is growable means if you add the value consciously tuple variable size will grow and similarly
+#when you remove the objects from list it’s size automatically decreases.
 #It is Immutable means we cannot change the value
 
 #Tuple used to store multiple items in a single variable
