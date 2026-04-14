@@ -20,7 +20,7 @@ try:
 except:
      print("can't devide by 0")
 
-# # value error exception handling
+# value error exception handling
 a=int(input("enter any one number"))
 b=int(input("enter second number"))  #ValueError: invalid literal for int() with base 10: '*'
 print(a/b) 
