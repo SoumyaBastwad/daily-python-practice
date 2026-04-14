@@ -55,7 +55,8 @@ except (ValueError,ZeroDivisionError) as message:
       print(message)
 
 
-# the concept of default except block , generally we used for writing normal message or showing normal error     
+# the concept of default except block ,
+#generally we used for writing normal message or showing normal error     
 try:
     a=int(input("enter any one number"))
     b=int(input("enter second number"))  
