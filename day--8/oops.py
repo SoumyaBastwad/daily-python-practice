@@ -213,7 +213,7 @@ class Reasult(SubjMarks,PractMarks):
 # metod overloading: method is same overloding is diff
 # python support only operator ovedrloading
 #method overloading is not possiable in python 
-# if we are trying to declare multiple method with same name and different number of arguments then python will always aonsider only last method 
+# if we are trying to declare multiple method with same name and different number of arguments then python will always aonther sider only last method 
 class Arithmatic:
     def add(self,a):
         print(a)
