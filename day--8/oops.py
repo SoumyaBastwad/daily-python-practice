@@ -6,7 +6,7 @@ class Student:
     def add(self):           #self is default argument
         print(self.a+self.b)
 
-#object creation====================================================
+#object creation=============================================
 obj=Student()
 obj.add()              # we call method using . 
 print(obj.a)
