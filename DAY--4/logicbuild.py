@@ -25,7 +25,8 @@ print("It's now:{:%d/%m/%y %H:%M:%S}".format(date))
 
 
 #Break Statement:
-#Break statements break the loop immediately and we can use break statement in any loop like for loop, while loop, nested for loop.
+#Break statements break the loop immediately and we can use break statement in any loop like 
+#for loop, while loop, nested for loop.
 for i in range(1,5):
     if i==3:
         break
