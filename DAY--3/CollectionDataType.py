@@ -5,7 +5,7 @@
 # Set
 # Dictionary
 
-
+#List
 #Perform List Slicing which basics but very important:
 mylist=["soumya","sinchana","srushti","komal","poornima",3,4,"shreya",68.9,"prashanta"]
 print(mylist)         #["soumya","sinchana","srushti","komal","poornima",3,4,"shreya",68.9,"prashanta"]
