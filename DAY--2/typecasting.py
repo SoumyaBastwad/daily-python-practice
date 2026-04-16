@@ -35,7 +35,6 @@ print(bool(""))      #False
 
 
 #WAP to check if three variables have the same value so all the three variable addresses are the same.
-#( Using id() function we can check the address) 
 math=50
 che=50
 phy=60
