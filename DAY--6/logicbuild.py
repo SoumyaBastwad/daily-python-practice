@@ -19,7 +19,7 @@ print("total number of even numbers:",even)
 print("total number of even numbers:",odd)
 
 
-#sum of natural numbers using while loop
+# sum of natural numbers using while loop
 i=1
 total=0
 while i<=10:
@@ -28,7 +28,7 @@ while i<=10:
 print(total)
 
 
-# #factorial of 5 using while loop
+# factorial of 5 using while loop
 fact=1
 i=1
 while i<=5:
