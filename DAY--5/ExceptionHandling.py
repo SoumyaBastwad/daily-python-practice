@@ -1,6 +1,6 @@
-#before starting exception handling we should know about types of errors
-#syntax error
-#runtime error
+# types of errors
+# syntax error
+# runtime error
 
 #syntax error comes when we do not follow proper syntactical rule means predefined grammatical rules
 #runtime error 
@@ -37,7 +37,7 @@ except (ZeroDivisionError):
 except (ValueError):
        print('enter only integers')
 
-#exception handling
+# exception handling
 a=int(input("enter any one number"))
 b=int(input("enter second number"))  # if suppose input 5/0
 try:
@@ -68,7 +68,7 @@ except:
      
 
              
-#we  can use else block if no error will generate it is depend on our own need and necessity
+# we can use else block if no error will generate it is depend on our own need and necessity
 try:
     a=int(input("enter any one number"))
     b=int(input("enter second number"))  
@@ -79,7 +79,7 @@ else:                                       # if there is no exception then else
       print("Everyting is ok")
     
 
-#finally block will always execuited whether try block generate error or not 
+# finally block will always execuited whether try block generate error or not 
 try:
     a=int(input("enter any one number"))
     b=int(input("enter second number"))  
@@ -102,7 +102,7 @@ except ValueError as message:
       print(message)
 
 
-#exception ,else and finally block
+# exception ,else and finally block
 try:
      a=int(input("enter any one number"))
      b=int(input("enter second number"))  
@@ -115,7 +115,7 @@ finally:
       print("i am finally block i will always execute")
 
 
-#user defined exception by raise keyword
+# user defined exception by raise keyword
 bank_bal=500
 if bank_bal<2000:
     raise Exception("your account balance is below a acessing limit")
