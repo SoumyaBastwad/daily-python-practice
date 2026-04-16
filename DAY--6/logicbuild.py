@@ -4,6 +4,7 @@ while i<=5:
     print(i)
     i=i+1
 
+
 # count the how many even number and odd number in 1 to 10
 i=1
 even=0
@@ -26,6 +27,7 @@ while i<=10:
     i=i+1
 print(total)
 
+
 # #factorial of 5 using while loop
 fact=1
 i=1
@@ -33,6 +35,7 @@ while i<=5:
     fact=fact*i
     i=i+1
 print(fact)
+
 
 # output is 1 5
 #           2 4
