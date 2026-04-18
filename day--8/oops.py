@@ -12,7 +12,6 @@ obj.add()              # we call method using .
 print(obj.a)
 by default everything in class like variable,functions are public
 
-
 #constructor call automatically whenever we create object or we can say that at the time of creation of object
 #internally also we have constructors
 #for one object it call one constructor
@@ -53,7 +52,6 @@ class Hod:
 obj=Hod("soumya",20,102)
 obj.show()
         
-
 # how many types of variables we declare inside class
 # instance variable: we can declare instance variable using self keyword inside constructor
 # static variable
@@ -73,7 +71,6 @@ obj.s_branch="cs"            # outside class instance variable by using object
 print(obj.__dict__)
 print(obj.mb)
 
-
 #for every object create separate memory
 class New():
     def __init__(self):
@@ -86,7 +83,6 @@ obj1.a=20          # it is only effect obj1 not obj2 and obj3
 print(obj1.a)
 print(obj2.a)
 print(obj3.a)
-
 
 # static variable
 # static variable creates only one memory for total class and this will assiable for all objects
@@ -108,7 +104,6 @@ print(obj1.a)
 print(obj2.a)
 print(obj3.a)
 
-
 # there are three types of metohds can use in class
 # static metod
 # instance method :if any variable we are implementing inside of any method then that method is called instance metod  
@@ -125,7 +120,6 @@ class Student:
 stud=Student("soumya",35,9348028244)
 stud.display()
 
-
 #static method==========================================
 class Student:
      # by using class name we can access static method
@@ -139,15 +133,12 @@ class Student:
 Student.get_personal_detail("soumya","bastwad")
 Student.contact_detail(823619401,35)
 
-
 #class method our work
-
 #inheritance====extending properties from one class to another class
 #Base class:A class which inherits it's property to another is called baseclass or parent class
 #derived class:A class in which properties are inherited called as derived class or child class
 # types of inheritamnce
 #1.single    #2.multilevel    #3.multiple
-
 
 #single inheritance sytax
 #class derived-class(base-class):
@@ -192,7 +183,6 @@ obj.college_name()
 obj.student_info()
 obj.subject()
 
-
 #multiple inheriance syntax
 # class A:
 # class B:
@@ -208,7 +198,6 @@ class PractMarks:
     react=int(input("enter marks of react"))
 
 class Reasult(SubjMarks,PractMarks):
-
 
 # metod overloading: method is same overloding is diff
 # python support only operator ovedrloading
@@ -242,7 +231,6 @@ obj.add(10)
 obj.add(10,20)
 obj.add(1,2,3)
 
-
 #constructor overloading constructor name are same but diff arguments
 #constructor overloading is not possible in python 
 # if we define multiple constructors then last constructor will be considered
@@ -256,7 +244,6 @@ class Arthmatic:
 obj=Arthmatic()
 obj=Arthmatic(10)
 obj=Arthmatic(2,2)
-
 
 #operator overloading
 #operator overloading
@@ -313,7 +300,6 @@ obj.homeLoan_ROI()
 obj.carLoan()
 
 #python supports method overriding and constructor overriding
-
 # constructor overriding
 class Father:
     def __init__(self):
@@ -362,7 +348,6 @@ obj2.placement()
 obj3=Prashanth()
 obj3.training()
 obj3.placement()
-
 
 # example for abstract
 from abc import ABC,abstractmethod
