@@ -21,7 +21,6 @@ login()
 # positional argument
 # keyword argument
 # defautl argument
-#variable length argument/variable number of argument
 
 #positional argument
 def add(x,y):  #called function
