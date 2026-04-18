@@ -43,7 +43,7 @@ b=int(input("enter second number"))  # if suppose input 5/0
 try:
       print(a/b) 
 except ZeroDivisionError as message:
-       print("the description of exception :",message) # output:the description of exception : division by zero 
+       print("the description of exception :",message)              # output:the description of exception : division by zero 
 
 
 # Handling multiple different kinds of exception with singke except block
@@ -66,8 +66,6 @@ except (ValueError,ZeroDivisionError) as message:
 except:
      print("this is default part of except block")
      
-
-             
 # we can use else block if no error will generate it is depend on our own need and necessity
 try:
     a=int(input("enter any one number"))
