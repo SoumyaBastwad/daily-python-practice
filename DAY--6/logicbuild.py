@@ -4,7 +4,6 @@ while i<=5:
     print(i)
     i=i+1
 
-
 # count the how many even number and odd number in 1 to 10
 i=1
 even=0
@@ -17,7 +16,6 @@ while i<=10:
     i=i+1
 print("total number of even numbers:",even)
 print("total number of even numbers:",odd)
-
 
 # sum of natural numbers using while loop
 i=1
@@ -54,14 +52,12 @@ for i in range(1,n+1):
         print(i,end="  ")
     print()
 
-
 #ASCII upercase letters in matrix format
 n=int(input("Enter the number of rows:"))
 for i in range(1,n+1):
     for j in range(1,n+1):
         print(chr(64+i),end="  ")
     print()
-
 
 # pattern example
 n=int(input("Enter the number of rows:"))
