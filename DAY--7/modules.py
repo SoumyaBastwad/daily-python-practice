@@ -8,13 +8,6 @@ import math as m
 print(m.sqrt(4))
 print(m.pi)
 
-#math library
-from math import *
-print(int(sqrt(4)))
-print(ceil(10.1))
-print(floor(10.1))
-print(fabs(-10.6))
-print(fabs(10.6))
 
 #random module:
 # this module defines several function to generaate 
