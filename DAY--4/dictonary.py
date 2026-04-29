@@ -15,7 +15,6 @@ print(mydict)
 print(type(mydict))
 print(id(mydict))
 print(id(newmydict))
-
 mydict={101:"prashanta",102:"ashish","103":"mohini","104":"trisha",101:"ashish",104:"ashish"}
 print(mydict)
 
