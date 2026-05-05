@@ -5,7 +5,8 @@
 # It is a general-purpose language used in various fields like web development, artificial intelligence, data science, and automation.
 
 
-# Application of python means which types of software applications we can develop using Python programming. This is very common interviews questions which is generally asked by the company, so Python is used in a variety of fields, including: 
+# Application of python means which types of software applications we can develop using Python programming. 
+# This is very common interviews questions which is generally asked by the company, so Python is used in a variety of fields, including: 
 # Web Development (Django, Flask) 
 # Data Science & Machine Learning (NumPy, Pandas, TensorFlow, Scikit-learn) 
 # Automation & Scripting 
