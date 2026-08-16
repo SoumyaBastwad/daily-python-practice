@@ -4,7 +4,16 @@
 # Officially, Python was made available to the public on February 20, 1991.
 # It is a general-purpose language used in various fields like web development, artificial intelligence, data science, and automation.
 
-
+# Application of python means which types of software applications we can develop using Python programming. 
+# Python is used in a variety of fields, including: 
+# Web Development (Django, Flask) 
+# Data Science & Machine Learning (NumPy, Pandas, TensorFlow, Scikit-learn) 
+# Automation & Scripting 
+# Internet of Things (IoT) 
+# Game Development 
+# Cybersecurity 
+# GUI Development (Tkinter, PyQt) 
+# Network Based Applications
 
 
 
