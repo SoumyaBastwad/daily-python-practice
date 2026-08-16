@@ -28,18 +28,7 @@
 # bool 
 # str 
 
-#This example is based on all the predefined data types and how to use it. 
-name = 'soumya bastwad'       
-marks = 80    
-percentage = 93.5    
-complex_value= 2+8j    
-passed = True    
-print('Display the output:')    
-print('Name of Person:', name)     #Name of Person: soumya bastwad
-print('Marks :', marks)     #Marks : 80 
-print('Percentage  :', percentage)    #Percentage : 93.5 
-print('Complex value :', complex_value)    #Complex value : (2+8j) 
-print('Passed status :', passed)          #Passed status : True
+
 
 
 #Python is a dynamically typed language
