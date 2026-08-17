@@ -64,12 +64,7 @@ for key in dict:
      print(key,":",dict[key])
 
 
-# reverse a string
-str="soumya"
-rev=""
-for i in str:
-     rev=i+rev
-print(rev)
+
 
 
 # write a program to check if a list is palindrome or not
