@@ -61,11 +61,6 @@ print(val1+val2)
 
 
 # WAP it accept five numbers in 5 different variables and check maximum number and print it
-n1=int(input("Enter a number1:"))
-n2=int(input("Enter a number2:"))
-n3=int(input("Enter a number3:"))
-n4=int(input("Enter a number4:"))
-n5=int(input("Enter a number5:))
 
 
 #WAP to accept three subject marks and calculate total percentage is greater than or equal 60 so he\she is eligibal for placement drive
