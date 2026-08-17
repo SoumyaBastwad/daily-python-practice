@@ -61,7 +61,6 @@ print(val1+val2)
 
 
 # WAP it accept five numbers in 5 different variables and check maximum number and print it
-# WAP it accept five numbers in 5 different variables and check maximum number and print it
 n1=int(input("Enter a number1:"))
 n2=int(input("Enter a number2:"))
 n3=int(input("Enter a number3:"))
