@@ -61,7 +61,22 @@ print(val1+val2)
 
 
 # WAP it accept five numbers in 5 different variables and check maximum number and print it
-
+# WAP it accept five numbers in 5 different variables and check maximum number and print it
+n1=int(input("Enter a number1:"))
+n2=int(input("Enter a number2:"))
+n3=int(input("Enter a number3:"))
+n4=int(input("Enter a number4:"))
+n5=int(input("Enter a number5:"))
+if n1>n2 and n1>n3 and n1>n4 and n1>n5:
+    print("number1 is max",n1)
+if n2>n1 and n2>n3 and n2>n4 and n2>n5:
+    print("number2 is max",n2)
+if n3>n1 and n3>n2 and n3>n4 and n3>n5:
+    print("number3 is max",n3)
+if n4>n1 and n4>n2 and n4>n3 and n4>n5:
+    print("number4 is max",n4)
+if n5>n1 and n5>n2 and n5>n3 and n5>n4:
+    print("number5 is max",n5)
 
 #WAP to accept three subject marks and calculate total percentage is greater than or equal 60 so he\she is eligibal for placement drive
 math=int(input("Enter marks for maths:"))
