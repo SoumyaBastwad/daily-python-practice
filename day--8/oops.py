@@ -12,8 +12,6 @@ obj.add()              # we call method using .
 print(obj.a)
 by default everything in class like variable,functions are public
 
-
-
 #constructor call automatically whenever we create object or we can say that at the time of creation of object
 #internally also we have constructors
 #for one object it call one constructor
