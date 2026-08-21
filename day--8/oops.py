@@ -1,4 +1,16 @@
+#class=======================================================
+# naming convention rule =classname start with capital letter
+class Student:
+    a=10    #data member
+    b=20
+    def add(self):           #self is default argument
+        print(self.a+self.b)
 
+#object creation=============================================
+obj=Student()
+obj.add()              # we call method using . 
+print(obj.a)
+by default everything in class like variable,functions are public
 
 
 
