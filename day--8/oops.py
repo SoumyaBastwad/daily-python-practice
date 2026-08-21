@@ -1,10 +1,4 @@
-#class=======================================================
-# naming convention rule =classname start with capital letter
-class Student:
-    a=10    #data member
-    b=20
-    def add(self):           #self is default argument
-        print(self.a+self.b)
+
 
 
 
