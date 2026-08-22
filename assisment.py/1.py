@@ -59,6 +59,9 @@ else:
 
 
 # write program to iterate over the keys and values of a dictionary
+dict={"name":"soumya","age":20,"usn":"2hn23cs102"}
+for key in dict:
+     print(key,":",dict[key])
 
 
 
