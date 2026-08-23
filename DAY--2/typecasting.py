@@ -77,16 +77,7 @@ if n4>n1 and n4>n2 and n4>n3 and n4>n5:
 if n5>n1 and n5>n2 and n5>n3 and n5>n4:
     print("number5 is max",n5)
 
-#WAP to accept three subject marks and calculate total percentage is greater than or equal 60 so he\she is eligibal for placement drive
-math=int(input("Enter marks for maths:"))
-che=int(input("Enter marks for chemistry:"))
-phy=int(input("Enter marks for physics:"))
-per=math+che+phy/3.0
-if per>=60:
-    print("he/she eligibal for placement drive")
-else:
-    print("he/she not eligibal for placement drive")
-print(per)
+
 
 
 # input function it takes by default string value
