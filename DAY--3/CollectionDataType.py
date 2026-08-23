@@ -236,16 +236,6 @@ myset={10,20,30,40}
 yourset={10,50,69,30}
 print(myset.intersection(yourset))
 
-#difference() method this will return the element 
-#present in first set but not in second set
-myset={10,20,30,40}
-yourset={10,50,60,30}
-print(myset.difference(yourset))
-
-# clear() we can use to clear data
-# pop() method is used to remove object
-myset={10,20,30,40}
-print(myset.clear()) #None
 
 
 
