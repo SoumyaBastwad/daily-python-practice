@@ -93,9 +93,4 @@ print(per)
      
 
 
-# input function it takes by default string value
-print(2+2)
-print("2"+"2")
-val1=input("Enter value 1")
-val2=input("Enter value 2")
-print(val1+val2)
+
