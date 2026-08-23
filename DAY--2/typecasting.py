@@ -89,14 +89,7 @@ else:
 print(per)
 
 
-# WAP to accept only digits in that positive,negative,nutral it display
-n=int(input("Enter a integer:\t"))
-if n>0:
-    print("positive number")
-if n<0:
-    print("Negative number")
-if n==0:
-    print("it is zero")
+
      
 
 
