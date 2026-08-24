@@ -225,6 +225,11 @@ print(myset)
 myset.remove(3)
 print(myset)
 
+#union
+myset={10,20,30,40}
+yourset={"prashant","jha"}
+newset=myset.union(yourset)
+print(newset)
 
 #intersection
 myset={10,20,30,40}
