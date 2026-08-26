@@ -33,6 +33,11 @@ if "komal" in mylist:
 else:
     print('not available')
 
+# append() method id used to add new object at the end
+mylist=['soumya', 'sinchana', 'tania', 'komal', 'poornima', 3, 4, 'shreya', 68.9, 'prashanta']
+mylist.append('harsh')
+mylist.append('laxmi')
+print(mylist)
 
 #  using a insert method to add object a specified position
 mylist=['soumya', 'sinchana', 'tania', 'komal', 'poornima', 3, 4, 'shreya', 68.9, 'prashanta']
