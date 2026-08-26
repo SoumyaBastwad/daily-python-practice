@@ -21,17 +21,6 @@ print(float(4.22))     #4.22
 print(float("4"))       #4.o
 
 
-#bool() is used to convert in boolean value 
-print(bool(0))  #False
-print(bool(15))    #True
-print(bool(3.14))    #True
-print(bool(0.0))      #False
-print(bool(1+2j))    #True
-print(bool(0+0j))       #False
-print(bool(-1))         #True
-print(bool(False))      #False
-print(bool(True))    #True
-print(bool(""))      #False
 
 
 #WAP to check if three variables have the same value so all the three variable addresses are the same.
