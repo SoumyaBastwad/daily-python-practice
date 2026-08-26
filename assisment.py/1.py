@@ -38,15 +38,6 @@ for i in range(len(arr)-1,-1,-1):
 print(rev)
 
 
-# write a program to check if a list is palindrome or not
-arr=[1,2,3,2,1]
-rev=[]
-for i in range(len(arr)-1,-1,-1):
-      rev.append(arr[i])
-if rev==arr:
-     print("given list is palindrome")
-else:
-     print("given list is not a palindrome")
 
 
 # write a program to check if a key exists in a dictionary 
