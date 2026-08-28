@@ -99,9 +99,4 @@ else:
 # counting even numbers range from 1 to 9
 count=0
 for i in range(9):
-    if i%2==0:
-        print(i)
-    else:
-        print(i)
-        count+=1
-print("count=",count)
+    
