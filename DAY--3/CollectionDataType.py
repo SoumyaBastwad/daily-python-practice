@@ -242,6 +242,12 @@ yourset={10,50,60,30}
 print(myset.difference(yourset))
 
 
+# clear() we can use to clear data
+# pop() method is used to remove object
+myset={10,20,30,40}
+print(myset.clear()) #None
+
+
 
 
 
