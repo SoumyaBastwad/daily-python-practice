@@ -96,7 +96,5 @@ elif n2>n3:
 else:
     print("n3 is greater number:",n3)
 
-# counting even numbers range from 1 to 9
-count=0
-for i in range(9):
+
     
