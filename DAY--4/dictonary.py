@@ -51,10 +51,4 @@ mydict.pop("name")
 print(mydict)
 
 
-#copying dictionary by using copy() function
-mydict={"name":"soumya","professional":"student","rollno":35}
-newdict=mydict.copy()
-print(mydict)
-print(newdict)
-
 
