@@ -5,7 +5,10 @@
 #syntax error comes when we do not follow proper syntactical rule means predefined grammatical rules
 #runtime error 
 
-
+# in exception there are 2 types predefined exception and user defined exception
+a=int(input("enter any one number"))
+b=int(input("enter second number"))
+print(a/b)  #if 5/0 ZeroDivisionError: division by zero
 
 # runtime error is also known as exception
 
