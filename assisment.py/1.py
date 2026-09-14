@@ -1,8 +1,4 @@
-# write a program to find maximum and minimum elements in array
-# sample input:[5,3,9,2,8]
-arr=[5,3,9,2,8]
-max=arr[0]
-min=arr[0]
+
 
 
 # write a program to reverse the order of element in array
