@@ -120,14 +120,4 @@ for i in  range(5,0,-1):
 fact=1
 for i in  range(1,6):
      fact=i*fact
-print("factorial of 5:",fact)
-
-
-# sample A=[1,2,3] B=[2,3,4] C=[3,4,5] output=3 / to check common element in all given list
-A=[1,2,3]
-B=[2,3,4]
-C=[3,4,5]
-for i in A:
-    if i in B and i in C:
-        print(i)
-
+print("factorial of 5:",fact
