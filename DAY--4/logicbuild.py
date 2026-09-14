@@ -120,4 +120,4 @@ for i in  range(5,0,-1):
 fact=1
 for i in  range(1,6):
      fact=i*fact
-print("factorial of 5:",fact
+print("factorial of 5:",fact)
