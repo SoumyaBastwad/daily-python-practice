@@ -57,3 +57,15 @@ else:
 dict={"name":"soumya","age":20,"usn":"2hn23cs102"}
 for key in dict:
      print(key,":",dict[k])
+
+
+
+# write a program to check if a list is palindrome or not
+str="racecar"
+rev=""
+for i in str:
+     rev=i+rev
+if rev==str:
+     print("palindrome")
+else:
+     print("not palindrome")
