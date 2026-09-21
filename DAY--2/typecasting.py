@@ -34,8 +34,6 @@ print(bool(True))    #True
 print(bool(""))      #False
 
 
-
-
 #WAP to check if three variables have the same value so all the three variable addresses are the same.
 math=50
 che=50
