@@ -20,6 +20,7 @@ print(float(False))    #0.0
 print(float(4.22))     #4.22
 print(float("4"))       #4.o
 
+
 #bool() is used to convert in boolean value 
 print(bool(0))  #False
 print(bool(15))    #True
