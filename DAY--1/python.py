@@ -40,7 +40,6 @@ print('Complex value :', complex_value)    #Complex value : (2+8j)
 print('Passed status :', passed)          #Passed status : True
 
 
-
 #Python is a dynamically typed language
 
 #WAP to check the Datatype of Variable 
