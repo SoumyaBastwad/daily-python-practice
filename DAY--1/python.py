@@ -16,7 +16,6 @@
 # Network Based Applications
 
 
-
 # Data Types in Python 
 # Data types tell which types of value hold by variables like integer, float, str etc. 
 # In python there is no need to define or declare data type explicitly or externally in program
