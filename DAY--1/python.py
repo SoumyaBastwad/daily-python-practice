@@ -59,8 +59,3 @@ print( type(passed))   #<class 'bool'>
 # How to check the address of a variable
 name = 'soumya'  
 print(id(name))  #25171789997
-
-
-
-
-
