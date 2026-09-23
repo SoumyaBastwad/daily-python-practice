@@ -39,7 +39,7 @@ for i in mylist:
 
 
 
-# in c language for loop for(intialization;cond;inc/decr)
+
 
 
 #display starting number 1 to 4 using for loop
