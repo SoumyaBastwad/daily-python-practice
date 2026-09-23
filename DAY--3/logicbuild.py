@@ -44,8 +44,6 @@ for i in range(5): #start from 0 to 4
     print(i)
 
 
-
-
 #display starting number 1 to 4 using for loop
 for i in range(1,5): #start from 1 to 4
      print(i)
