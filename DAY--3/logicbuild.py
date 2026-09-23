@@ -37,7 +37,11 @@ mylist=[3,4,5,6,7]
 for i in mylist:
     print(i)
 
-
+# in c language for loop for(intialization;cond;inc/decr)
+#in python range() function is used
+#display starting number 0 to 4 using for loop
+for i in range(5): #start from 0 to 4
+    print(i)
 
 
 
