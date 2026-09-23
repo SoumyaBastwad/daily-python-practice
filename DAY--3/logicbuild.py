@@ -40,8 +40,7 @@ for i in mylist:
 
 
 # in c language for loop for(intialization;cond;inc/decr)
-#in python range() function is used
-#display starting number 0 to 4 using for loop
+
 
 #display starting number 1 to 4 using for loop
 for i in range(1,5): #start from 1 to 4
