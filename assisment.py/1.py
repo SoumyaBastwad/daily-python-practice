@@ -60,7 +60,5 @@ for key in dict:
 
 
 
-# write a program to check if a list is palindrome or not
-str="racecar"
 
 
