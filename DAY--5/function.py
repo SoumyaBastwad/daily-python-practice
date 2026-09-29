@@ -118,8 +118,4 @@ outerfunction()
 
 #nested function
 def outerfunction():
-    print('outer function')
-    def innerfunction():
-        print("inner function")
-    innerfunction()
-outerfunction()
+    print('outer functio
