@@ -116,6 +116,3 @@ outerfunction()
 
 
 
-#nested function
-def outerfunction():
-    print('outer functio
