@@ -119,13 +119,4 @@ outerfunction()
 def cityname(*city):
     print("City name:",city)
 
-cityname("pune","belgaum","goa","mumbai")
-
-
-#nested function
-def outerfunction():
-    print('outer function')
-    def innerfunction():
-        print("inner function")
-    innerfunction()
-outerfunction()
+cityname("pune","belgaum","goa","mumbai"
