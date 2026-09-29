@@ -74,7 +74,6 @@ for i in range(1,n+1):
     print()
 
 
-
 # wap to manu driven code
 import sys
 def addition():
