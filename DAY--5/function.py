@@ -113,10 +113,3 @@ def outerfunction():
         print("inner function")
     innerfunction()
 outerfunction()
-
-
-#variable length argument\variable number of arguments
-def cityname(*city):
-    print("City name:",city)
-
-cityname("pune","belgaum","goa","mumbai"
