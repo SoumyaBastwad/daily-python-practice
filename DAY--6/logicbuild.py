@@ -73,10 +73,4 @@ for i in range(1,n+1):
         print(i,end="  ")
     print()
 
-# wap to manu driven code
-import sys
-def addition():
-    a=int(input("enter a value:"))
-    b=int(input("enter b value:"))
-    print("Addition=",a+b)
 
