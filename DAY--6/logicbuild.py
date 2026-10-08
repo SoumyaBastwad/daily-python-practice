@@ -98,14 +98,4 @@ while True:
     print("3.Multiplication:")
     print("4.Division:")
     print("5.exit")
-    choice=int(input("enter your choice:"))
-    if choice==1:
-        addition()
-    elif choice==2:
-        substraction()
-    elif choice==3:
-        multiplication()
-    elif choice==4:
-        Division()
-    elif choice==5:
-        sys.exit()
+    
