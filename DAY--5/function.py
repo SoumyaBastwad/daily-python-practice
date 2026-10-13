@@ -109,10 +109,4 @@ cityname("pune","belgaum","goa","mumbai")
 #nested function
 def outerfunction():
     print('outer function')
-    def innerfunction():
-        print("inner function")
-    innerfunction()
-outerfunction()
-
-
 
