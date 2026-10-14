@@ -59,5 +59,3 @@ for key in dict:
      print(key,":",dict[k])
 
 
-# write a program to check if a list is palindrome or not
-str="raceca
