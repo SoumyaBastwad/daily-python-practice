@@ -143,10 +143,5 @@ while True:
     print("2.Substraction:")
     print("3.Multiplication:")
     print("4.Division:")
-    print("5.exit")
-    choice=int(input("enter your choice:"))
-    if choice==1:
-        addition()
-    elif choice==2:
-        substraction()
+    print("5.exit"
     
