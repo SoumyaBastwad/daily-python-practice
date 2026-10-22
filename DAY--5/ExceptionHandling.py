@@ -149,9 +149,4 @@ while True:
         addition()
     elif choice==2:
         substraction()
-    elif choice==3:
-        multiplication()
-    elif choice==4:
-        Division()
-    elif choice==5:
-        sys.exit()
+    
