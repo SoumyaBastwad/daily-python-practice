@@ -133,9 +133,4 @@ def substraction():
 def multiplication():
     a=int(input("enter a value:"))
     b=int(input("enter b value:"))
-    print("Multiplication=",a*b)
-def Division():
-    a=int(input("enter a value:"))
-    b=int(input("enter b value:"))
-    print("Division=",a/b)
-while True:
+    
