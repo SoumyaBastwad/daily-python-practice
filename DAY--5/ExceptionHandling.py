@@ -120,7 +120,4 @@ if bank_bal<2000:
 else:
     print("your amount has withdrawal")
 
-# write program  to manu driven code
-import sys
-def addition():
-    
+
